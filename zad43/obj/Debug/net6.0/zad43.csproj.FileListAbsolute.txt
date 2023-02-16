@@ -1,0 +1,6 @@
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad43/obj/Debug/net6.0/zad43.GlobalUsings.g.cs
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad43/obj/Debug/net6.0/zad43.csproj.AssemblyReference.cache
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad43/obj/Debug/net6.0/zad43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad43/obj/Debug/net6.0/zad43.AssemblyInfoInputs.cache
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad43/obj/Debug/net6.0/zad43.AssemblyInfo.cs
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad43/obj/Debug/net6.0/zad43.csproj.CoreCompileInputs.cache
