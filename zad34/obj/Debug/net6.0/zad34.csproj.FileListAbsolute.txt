@@ -1,0 +1,16 @@
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/bin/Debug/net6.0/zad34
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/bin/Debug/net6.0/zad34.deps.json
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/bin/Debug/net6.0/zad34.runtimeconfig.json
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/bin/Debug/net6.0/zad34.dll
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/bin/Debug/net6.0/ref/zad34.dll
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/bin/Debug/net6.0/zad34.pdb
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/obj/Debug/net6.0/zad34.GlobalUsings.g.cs
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/obj/Debug/net6.0/zad34.csproj.AssemblyReference.cache
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/obj/Debug/net6.0/zad34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/obj/Debug/net6.0/zad34.AssemblyInfoInputs.cache
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/obj/Debug/net6.0/zad34.AssemblyInfo.cs
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/obj/Debug/net6.0/zad34.csproj.CoreCompileInputs.cache
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/obj/Debug/net6.0/zad34.dll
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/obj/Debug/net6.0/ref/zad34.dll
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/obj/Debug/net6.0/zad34.pdb
+/Users/alekseikoltashev/Desktop/Cseminar3.1/zad34/obj/Debug/net6.0/zad34.genruntimeconfig.cache
